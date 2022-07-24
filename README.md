@@ -2,8 +2,7 @@
 
 ## Converta valores usando, multiplicação, adição, subtração, divisão e etc, sem usar nenhuma biblioteca ou outras dependências
 
-VERSÃO=1.0
-
+VERSÃO=1.0  
 OPERAÇÕES=Adição, subtração, divisão e multiplicação
 
 Para baixar o repositório escreva no terminal(cmd):
